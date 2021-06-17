@@ -1,3 +1,3 @@
 # zeiterfassungsterminal
 
-### Eine App, bei der die Chefs die Start- und Ausstiegszeiten des Personals  kontrollieren können.
+### Eine App, mit der die Chefs die Start- und Ausstiegszeiten des Personals  kontrollieren können.
