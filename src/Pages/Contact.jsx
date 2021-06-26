@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Contact.css";
 import NavBar from "../NavBar"
-import { Button, Input, Form , FormGroup, Label, Row, Col} from 'reactstrap';
+// import { Button, Input, Form , FormGroup, Label, Row, Col} from 'reactstrap';
 import DisplayContact from "./DisplayContact.js";
 import InputContact from "./InputContact";
 

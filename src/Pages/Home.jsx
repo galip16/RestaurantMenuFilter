@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import "./Home.css";
 import { FormGroup, Form, Button, Input, Col } from "reactstrap";
-import { useState, useHistory } from "react";
+import { useState } from "react";
 import { LoggInContext } from "../Context/LoggInContext";
 
 function Home() {

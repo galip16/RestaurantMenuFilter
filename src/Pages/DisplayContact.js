@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Input, Form , FormGroup, Label, Row, Col} from 'reactstrap';
+import { Button,  Row} from 'reactstrap';
 import { Redirect } from 'react-router-dom';
 import "./Contact.css"
 
