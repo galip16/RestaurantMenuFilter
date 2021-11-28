@@ -1,3 +1,3 @@
-# zeiterfassungsterminal
+## Use of Filtering
 
-### Eine App, mit der die Chefs die Start und Finishzeiten des Personals  kontrollieren können.
+### In this application, filters are made according to some features of the restaurant menus.
